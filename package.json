@@ -17,8 +17,8 @@
     "url": "https://github.com/DieProduktMacher/generator-dpm-web-project/issues"
   },
   "homepage": "https://github.com/DieProduktMacher/generator-dpm-web-project#readme",
-  "dependencies": {},
-  "devDependencies": {
-    "yeoman-generator": "2.0.3"
-  }
+  "dependencies": {
+    "yeoman-generator": "^2.0.3"
+  },
+  "devDependencies": {}
 }
