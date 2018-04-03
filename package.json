@@ -1,0 +1,24 @@
+{
+  "name": "generator-dpm-web-project",
+  "version": "0.1.0",
+  "description": "Official Yeoman generator from DieProduktMacher for a complete web project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://nachbarshund@github.com/DieProduktMacher/generator-dpm-web-project.git"
+  },
+  "keywords": [],
+  "author": "Christopher Zotter (christopher.zotter@produktmacher.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DieProduktMacher/generator-dpm-web-project/issues"
+  },
+  "homepage": "https://github.com/DieProduktMacher/generator-dpm-web-project#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "yeoman-generator": "2.0.3"
+  }
+}
