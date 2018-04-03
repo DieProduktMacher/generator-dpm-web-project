@@ -1,6 +1,6 @@
 {
   "name": "generator-dpm-web-project",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Official Yeoman generator from DieProduktMacher for a complete web project.",
   "main": "index.js",
   "scripts": {
